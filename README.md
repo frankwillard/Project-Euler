@@ -12,3 +12,6 @@
 | 8) Largest product in a series | Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? | 0.05 seconds | 2 years ago | N/A |
 | 9) Special Pythagorean triplet | There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc. | 0.049 seconds | 2 years ago | N/A |
 | 10) Summation of primes | Find the sum of all the primes below two million. | 24.02 seconds | 2 years ago | N/A |
+| 11) Largest product in a grid | What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid? | 0.07 seconds | 2 years ago | N/A |
+| 12) Highly divisible triangular number | What is the value of the first triangle number to have over five hundred divisors? | 13.41 seconds | 2 years ago | N/A |
+| 13) Large sum | Work out the first ten digits of the sum of the following one-hundred 50-digit numbers. | 24.02 seconds | 2 years ago | N/A |
