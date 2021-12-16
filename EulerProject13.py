@@ -1,3 +1,5 @@
+import time 
+start = time.time()
 nums = [37107287533902102798797998220837590246510135740250,
 46376937677490009712648124896970078050417018260538,
 74324986199524741059474233309513058123726617309629,
@@ -103,4 +105,5 @@ sum = 0
 for i in range(0, len(nums)):
   sum += nums[i]
 
-print(str(sum)[0:10])
+elapsed = (time.time() - start)
+print ("found %s in %s seconds" % (str(sum)[0:10],elapsed))
