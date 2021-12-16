@@ -16,4 +16,19 @@
 | 12) Highly divisible triangular number | What is the value of the first triangle number to have over five hundred divisors? | 13.41 seconds | 2 years ago | N/A |
 | 13) Large sum | Work out the first ten digits of the sum of the following one-hundred 50-digit numbers. | 2e-5 seconds | 2 years ago | N/A |
 | 14) Longest Collatz sequence | Which starting number, under one million, produces the longest chain? | 15.6 seconds | 2 years ago | N/A |
-| 15) Lattice paths | How many such routes are there through a 20×20 grid? | 2e-5 seconds | 2 years ago | N/A |
+| 15) Lattice paths | How many such routes are there through a 20×20 grid? | 9e-5 seconds | 2 years ago | N/A |
+| 16) Power digit sum | What is the sum of the digits of the number 2^1000? | 0.0002 seconds | 2 years ago | N/A |
+| 17) Number letter counts | If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used? | 0.006 seconds | 2 years ago | N/A |
+| 18) Maximum path sum I | Find the maximum total from top to bottom of the triangle below: | 0.0002 seconds | 2 years ago | N/A |
+| 19) Counting Sundays | How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)? | 0.0006 seconds | 2 years ago | N/A |
+| 20) Factorial digit sum | Find the sum of the digits in the number 100! | 0.0001 seconds | 2 years ago | N/A |
+| 21) Amicable numbers | Evaluate the sum of all the amicable numbers under 10000. | 10.3 seconds | 2 years ago | N/A |
+| 22) Names scores | What is the total of all the name scores in the file? | 0.03 seconds | 2 years ago | N/A |
+| 25) 1000-digit Fibonacci number | What is the index of the first term in the Fibonacci sequence to contain 1000 digits? | 0.1 seconds | 2 years ago | N/A |
+| 30) Digit fifth powers | Find the sum of all the numbers that can be written as the sum of fifth powers of their digits. | 4.1 seconds | 2 years ago | N/A |
+| 34) Digit factorials | Find the sum of all numbers which are equal to the sum of the factorial of their digits. | 2.4 seconds | 2 years ago | N/A |
+| 36) Double-base palindromes | Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2. | 6.01 seconds | 2 years ago | N/A |
+| 48) Self powers | Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000. | 0.01 seconds | 2 years ago | N/A |
+| 67) Maximum path sum II | Find the maximum total from top to bottom in triangle.txt (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows. | 0.01 seconds | 2 years ago | N/A |
+| 97) Large non-Mersenne prime | Find the last ten digits of this prime number. | 0.2 seconds | 2 years ago | N/A |
+
