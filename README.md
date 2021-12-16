@@ -15,3 +15,5 @@
 | 11) Largest product in a grid | What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid? | 0.07 seconds | 2 years ago | N/A |
 | 12) Highly divisible triangular number | What is the value of the first triangle number to have over five hundred divisors? | 13.41 seconds | 2 years ago | N/A |
 | 13) Large sum | Work out the first ten digits of the sum of the following one-hundred 50-digit numbers. | 2e-5 seconds | 2 years ago | N/A |
+| 14) Longest Collatz sequence | Which starting number, under one million, produces the longest chain? | 15.6 seconds | 2 years ago | N/A |
+| 15) Lattice paths | How many such routes are there through a 20×20 grid? | 2e-5 seconds | 2 years ago | N/A |
