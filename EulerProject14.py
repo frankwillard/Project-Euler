@@ -1,3 +1,5 @@
+import time 
+start = time.time()
 highest = 508
 def sequence(n):
   count = 0
@@ -14,4 +16,5 @@ for n in range(800000,1000000):
   if memoize > highest:
     highest = memoize
     index = n
-print(index)
+elapsed = (time.time() - start)
+print ("found %s in %s seconds" % (index,elapsed))
