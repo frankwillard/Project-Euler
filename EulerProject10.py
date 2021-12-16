@@ -1,3 +1,5 @@
+import time 
+start = time.time()
 import math
 total = 2
 num = 3
@@ -18,4 +20,5 @@ while num < 2000000:
         
     num +=2
 
-print(total)
+elapsed = (time.time() - start)
+print ("found %s in %s seconds" % (total,elapsed))
